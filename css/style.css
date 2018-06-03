@@ -1,0 +1,8 @@
+.main-section {
+	background-color: rgb(255, 255, 255);
+	box-shadow: 0px 4px 68px 0px rgba(0, 0, 0, 0.1);
+	width: 1400px;
+	height: 940px;
+	margin-left: auto;
+	margin-right: auto;
+}
